@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @chichilicious
-- 👀 I’m interested in c#
+- 👋 Hi, I’m @chinoo
+- 👀 I’m interested in python,c#,react js
 - 🌱 I’m currently learning Information Systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
